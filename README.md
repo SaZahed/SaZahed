@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**SaZahed/SaZahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at **Hochschule Bremen**, currently exploring different areas of IT and software development.
 
-Here are some ideas to get you started:
+I'm interested in learning new technologies, building practical projects and expanding my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Interests
+- Software Development
+- Web Development
+- Cloud & IT Infrastructure
+- Artificial Intelligence
+
+### 🛠️ Technologies & Tools
+Technologies I've worked with or explored:
+- Programming Languages: Python, Java, C#, C++
+- Web Development: HTML, CSS, Angular, Node.js
+- Linux & DevOps: Linux, Docker, Docker Compose, Kubernetes
+- Git & GitHub
+
+### 🏫 Currently
+- Improving my programming skills through practical projects
+- Exploring different areas of software development
+- Looking for an internship to gain practical experience
