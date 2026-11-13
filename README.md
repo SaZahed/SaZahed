@@ -38,6 +38,8 @@ I enjoy learning new technologies, building practical projects and continuously 
 **Web Development**
 
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -82,6 +84,7 @@ Development Tools & Frameworks
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ### 🚀 Currently
@@ -90,3 +93,5 @@ Development Tools & Frameworks
 - Exploring software development and modern technologies
 - Expanding my knowledge of Cloud, Linux and DevOps
 - Looking for an internship to gain practical experience
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sazahed&" alt="sazahed" /></p>
